@@ -1,0 +1,13 @@
+{
+  "dataset_name": "Breast Cancer Wisconsin (Diagnostic)",
+  "dataset_source": "scikit-learn loader for UCI Breast Cancer Wisconsin dataset",
+  "original_reference": "https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic",
+  "records": 569,
+  "features": 30,
+  "target": "diagnosis",
+  "target_labels": [
+    "malignant",
+    "benign"
+  ],
+  "ethics_and_lgpd_note": "Dataset \u00e9 an\u00f4nimo e p\u00fablico. O modelo \u00e9 para apoio \u00e0 triagem cl\u00ednica e n\u00e3o substitui decis\u00e3o m\u00e9dica."
+}

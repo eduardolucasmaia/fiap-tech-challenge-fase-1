@@ -1,0 +1,5 @@
+model,cv_accuracy_mean,cv_recall_mean,cv_f1_mean,cv_roc_auc_mean,best_recall_from_grid,best_params
+logistic_regression,0.9736263736263737,0.9529411764705882,0.9640480895915677,0.9957688338493291,0.9588235294117646,"{""model__C"": 1.0, ""model__class_weight"": ""balanced""}"
+svm,0.9714285714285713,0.9470588235294116,0.9609865990024022,0.9949432404540763,0.9470588235294117,"{""model__C"": 0.5, ""model__kernel"": ""linear""}"
+random_forest,0.964835164835165,0.9411764705882353,0.9519447457150247,0.9889060887512902,0.9411764705882353,"{""model__max_depth"": null, ""model__min_samples_leaf"": 4, ""model__n_estimators"": 200}"
+knn,0.964835164835165,0.9176470588235294,0.9510417318999409,0.9871001031991744,0.9352941176470587,"{""model__metric"": ""manhattan"", ""model__n_neighbors"": 5, ""model__weights"": ""uniform""}"

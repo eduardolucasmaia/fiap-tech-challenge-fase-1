@@ -1,0 +1,5 @@
+{
+  "native_feature_importance_rows": 30,
+  "permutation_feature_importance_rows": 30,
+  "shap_status": "SHAP: ok (beeswarm + CSV em artifacts/)."
+}

@@ -1,0 +1,10 @@
+{
+  "rows": 569,
+  "columns": 31,
+  "missing_values": 0,
+  "duplicates": 0,
+  "class_distribution": {
+    "benign": 357,
+    "malignant": 212
+  }
+}

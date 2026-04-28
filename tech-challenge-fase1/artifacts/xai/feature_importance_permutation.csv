@@ -1,0 +1,31 @@
+feature,importance
+worst concavity,0.057142857142857106
+worst texture,0.05714285714285709
+worst concave points,0.04523809523809519
+worst symmetry,0.04047619047619042
+mean concave points,0.028571428571428515
+mean concavity,0.01904761904761899
+worst perimeter,0.01904761904761899
+texture error,0.01904761904761898
+worst smoothness,0.014285714285714245
+worst radius,0.014285714285714235
+mean area,0.011904761904761862
+mean perimeter,0.00952380952380949
+mean radius,0.00952380952380949
+worst area,0.00952380952380948
+mean symmetry,0.0071428571428571175
+compactness error,0.004761904761904734
+mean texture,0.0023809523809523725
+smoothness error,0.0
+mean smoothness,0.0
+mean fractal dimension,0.0
+concavity error,0.0
+concave points error,0.0
+worst compactness,0.0
+worst fractal dimension,0.0
+perimeter error,-1.1102230246251566e-17
+area error,-1.1102230246251566e-17
+radius error,-2.2204460492503132e-17
+mean compactness,-0.0047619047619047675
+symmetry error,-0.004761904761904778
+fractal dimension error,-0.009523809523809535

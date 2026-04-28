@@ -1,0 +1,5 @@
+{
+  "selected_model": "logistic_regression",
+  "selection_metric": "recall",
+  "selection_score": 0.9588235294117646
+}

@@ -1,0 +1,13 @@
+{
+  "train_shape": [
+    455,
+    30
+  ],
+  "test_shape": [
+    114,
+    30
+  ],
+  "train_missing_values": 0,
+  "test_missing_values": 0,
+  "duplicate_rows_raw_data": 0
+}
