@@ -186,12 +186,9 @@ Serve para enxergar o balanceamento das classes, a correlação entre atributos 
 │   │   ├── 📄 breast_cancer_wisconsin.csv
 │   │   └── ⚙️ dataset_metadata.json
 │   ├── 📁 docs
-│   │   ├── 📕 IADT - Fase 1 - Tech challenge A.pdf
-│   │   ├── 🌐 trabalho_classificacao_cancer_mama_wisconsin.html
-│   │   └── 📕 trabalho_classificacao_cancer_mama_wisconsin.pdf
+│   │   └── 📕 IADT - Fase 1 - Tech challenge A.pdf
 │   ├── 📁 reports
-│   │   ├── 📝 relatorio_tecnico.md
-│   │   └── 📝 roteiro_video.md
+│   │   └── 📝 relatorio_tecnico.md
 │   ├── 📁 src
 │   │   ├── 🐍 data.py
 │   │   ├── 🐍 eda.py
